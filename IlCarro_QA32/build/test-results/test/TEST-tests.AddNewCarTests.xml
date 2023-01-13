@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.AddNewCarTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-11T21:12:16" hostname="MBP-Irina" time="2.45">
+<testsuite name="tests.AddNewCarTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T02:14:24" hostname="MBP-Irina" time="7.621">
   <properties/>
-  <testcase name="addNewCarSucces" classname="tests.AddNewCarTests" time="2.45"/>
+  <testcase name="addNewCarSucces" classname="tests.AddNewCarTests" time="7.621"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

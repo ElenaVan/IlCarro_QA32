@@ -12,10 +12,10 @@ public class TastBase {
         app.init();
     }
 
-    @AfterSuite
-    public void tearDown(){
-        app.stop();
-    }
+  //  @AfterSuite
+//    public void tearDown(){
+//        app.stop();
+//    }
 
 
 }
